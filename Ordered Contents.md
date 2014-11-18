@@ -1,16 +1,36 @@
-Table of Contents
+Ordered Contents
 =================
 
 1. Paraíso en Arcilla
+   3/27/2013
+
 2. Wild Dogs
+   4/4/2013
+
 3. Nullspace of a Matrix
+   4/5/2013
+
 4. Oh Bother
+   4/7/2013
+
 5. Untitled
+   4/12/2013
+
 6. Alpine Affinity
+   6/10/2013
+
 7. Inkspill
+   6/11/2013
+
 8. Neighborhood Reputation
+   6/12/2013
+
 9. 21st Century Seasons
+   7/1/2014
+
 10. Micro/Macro
+    7/2/2013
+
 11. Impermanence
 12. The Other Black Gold
 13. Untitled
