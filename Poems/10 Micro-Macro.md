@@ -3,54 +3,60 @@ Micro/Macro
 
 7/2/2013
 
-Strings
-watch
-as they dance
-alone in nothing else
+<table>
+<tr>
+<td>
+<br>
+Strings<br>
+watch<br>
+as they dance<br>
+alone in nothing else<br><br>
 
-muons, pions, several quarks
-too numerous to count
+muons, pions, several quarks<br>
+too numerous to count<br><br>
 
-protons, atoms, molecules
-a trillion at a time
+protons, atoms, molecules<br>
+a trillion at a time<br><br>
 
-to organelles and cells
-and macrobiostructure
+to organelles and cells<br>
+and macrobiostructure<br><br>
 
-bacteria and viruses
-diseases and their cures
+bacteria and viruses<br>
+diseases and their cures<br><br>
 
-pro- and eukarya
-and vertebrate, mammalia
+pro- and eukarya<br>
+and vertebrate, mammalia<br><br>
 
-the quadruped, the plantigrade
-the ape who walks on two
+the quadruped, the plantigrade<br>
+the ape who walks on two<br><br>
 
-and wears a shoe and cardigan
-and makes everything over again
+and wears a shoe and cardigan<br>
+and makes everything over again<br><br>
+</td><td>
+<br>
+Known<br>
+now<br>
+as a thing<br>
+encoded in a book<br><br>
 
-Known
-now
-as a thing
-encoded in a book
+theory, art, science and math<br>
+too enumerated to name<br><br>
 
-theory, art, science and math
-too enumerated to name
+emergent structure<br>
+and attribute<br><br>
 
-emergent structure
-and attribute
+to economy and power<br>
+and craft of war<br><br>
 
-to economy and power
-and craft of war
+crime and punishment<br>
+and society and justice<br><br>
 
-crime and punishment
-and society and justice
+newspaper and radio<br>
+and television, internet<br><br>
 
-newspaper and radio
-and television, internet
+atomic bomb and satellite<br>
+the astronaut in space<br><br>
 
-atomic bomb and satellite
-the astronaut in space
-
-who comes home and
-has to use a toilet just like everyone else
+who crash lands in the ocean and<br>
+eventually dies just like everyone else
+</td></tr></table>

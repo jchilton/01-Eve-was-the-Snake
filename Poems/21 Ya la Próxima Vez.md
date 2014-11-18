@@ -6,7 +6,7 @@ Ya la Próxima Vez
 1. Life on this side of the whip
    is not a permanent crisis
    despite sideways rain on the ill-lit highway
-   and traveling abstractly towards an ambulance
+   and traveling figuratively towards an ambulance
    and literally to a place where
    I want to be more than I want to be in my own bed
    What are all these comforts about?

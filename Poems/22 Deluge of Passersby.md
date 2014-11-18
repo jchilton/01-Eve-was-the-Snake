@@ -9,6 +9,6 @@ When all potential souls each cried out,
 easier."
 But the dual-roled charioteer-shepherd waited patiently,
 At times urging them to action and
-At times pushing them away --
+At times pushing them away &mdash;
 Not due to unloving,
 But so that they might find their paths

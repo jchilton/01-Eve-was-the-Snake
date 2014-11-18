@@ -3,7 +3,7 @@ Iridescent Tantaleyes
 
 10/24/2014
 
-Mystery girl --
+Mystery girl &mdash;
 You are unapproachable like a blinding diamond
 And beautiful like fission in a star
 But I have earned my stripes

@@ -9,4 +9,4 @@ An essence of humidity fills the aether;
 The dogs see spots.
 Dehydration reins them in to the cracks in the ground.
 Here where the sun shines on useless tooth & nail,
-Hunger prevails
+Hunger prevails.
