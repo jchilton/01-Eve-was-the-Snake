@@ -40,7 +40,7 @@ as a thing<br>
 encoded in a book<br><br>
 
 theory, art, science and math<br>
-too enumerated to name<br><br>
+too numerous to count<br><br>
 
 emergent structure<br>
 and attribute<br><br>

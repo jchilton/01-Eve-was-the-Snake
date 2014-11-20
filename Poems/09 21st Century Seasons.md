@@ -1,7 +1,7 @@
 21st Century Seasons
 ====================
 
-7/1/2014
+7/1/2013
 
 Horrible heat; can you feel that electric beat?
 All night, the blight hum of the power drums on

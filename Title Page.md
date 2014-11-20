@@ -10,8 +10,3 @@ and some of whose other work you can find online at http://github.com/jchilton
 
 Mad props to github.com
 
-<hr />
-
-In the beginning, Adam and Eve evolved from apes.
-Adam wanted Eve's body, so Eve invented a Snake and a Myth
-about Forbidden Fruit so that Adam would go Crazy.

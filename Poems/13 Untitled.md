@@ -8,7 +8,7 @@ Dear Princess,
 Do you know the sound that's made by
 Windshields as they shatter into
 Spiderweb designs as you are
-Hanging upside-down by seatbelt top-down
+Hanging upside-down by seatbelt
 Looking at a cliff?
 
 I don't for the adrenaline,
